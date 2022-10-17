@@ -25,6 +25,7 @@ enum class ETresItemDefWeapon : uint8 {
     WEP_KEYBLADE17,
     WEP_KEYBLADE18,
     WEP_KEYBLADE19,
+    WEP_KEYBLADE20,
     WEP_DONALD00,
     WEP_DONALD01,
     WEP_DONALD02,
@@ -94,6 +95,7 @@ enum class ETresItemDefWeapon : uint8 {
     WEP_ROXAS00,
     WEP_XION00,
     WEP_FRD_SORA00,
-    _WEP_MAX = 0x64,
+    WEP_KEYBLADE21,
+    _WEP_MAX = 0x65,
 };
 
